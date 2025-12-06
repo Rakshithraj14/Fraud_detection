@@ -70,4 +70,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to modify this template for your specific project details, including dataset descriptions, model types, and usage instructions.
+Built with ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
